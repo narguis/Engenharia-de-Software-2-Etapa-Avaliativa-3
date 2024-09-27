@@ -119,6 +119,7 @@ Os parâmetros de cada requisição podem ser enviados em formato JSON no corpo 
 ##### Descrição das telas
 
 - Tela de cadastro
+
 Campos: Nome, email, senha
 Botões: Cadastrar
 
